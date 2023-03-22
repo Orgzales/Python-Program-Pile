@@ -1,0 +1,23 @@
+name 
+gender
+What type of class would you like?
+
+Warrior - The way of the blade is yours
+Archer - Distance is your friend
+Spartan - SMASH EVERYTHING
+
+What priority would you like your stats?
+
+(1 - best 3 - worst)
+strength - How much dmg dealt
+dexirty - How much dmg avoided
+Health point - How much dmg you can take
+
+
+Variables: 
+	Level
+	Inventory
+	Potions
+	
+
+november 10th a tuesday at 8pm for author meeting

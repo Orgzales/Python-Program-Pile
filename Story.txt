@@ -1,0 +1,247 @@
+Prolouge...
+
+Your world has been taken over...
+One day the depth of the underworld has crested open...
+Monsters come out one by one slautering, kidnapping, and killing everyone they see...
+They taken over the major towns...
+You and a small group of survivors retreat into bunkers...
+All of you can defend and protect each other, however... food is running low.
+Everyone has their fair share, but all you have is your [weapon] and a few scraps left...
+You are tired of rotting away, you tell yourself it's our turn to fight back!
+Name: "I'm done..."
+
+Another survivor: "Huh? Done with what?" 
+
+name: "I am done with all this bullshit!" You hype yourself up and cause a scene
+name: "I want to fight! I want to take back what is ours!" everyone stares as you stand.
+name: "So who is with me!" No one responds back or says anything.
+You get ready to leave which was always a option in the first place. 
+You grab your [weapon] and walk near the exit of the bunker. 
+
+Leader: He hesitates to let you out. "[name] are you sure you want to leave?" 
+
+[yes/no]
+
+no- You decide to change your mind and as you head back, you live the rest of your life
+	until you starve to death and let someone eat you turning it inside a war in the bunker
+
+yes- continue
+
+Name: "Yes let me out" 
+
+The leader opens the valut door quickly and as it shuts behinds you, you regret your decision
+but it's too late to turn back now. You hear screeches echo through the forest and skys. 
+You shake with fear and you look at your [weapon] and you have a choice still.
+
+Should you just end yourself off by your own hands?
+
+[yes/no]
+
+yes- you commit suicide... game over
+
+no - You suck it up and you aren't going to die without a fight. 
+
+Chapter 1 - Scavanging 
+
+You find yourself through a small neighborhood, you are hungry, half naked, and need a bag.
+
+As you are walking in the broad day light, you see a small hell hound and it 
+becomes hostiles. It wants to fight but it waits for you to make the first move.
+
+//As you are fighting the amount of dmg you deal is based on three factors.
+  How strong is your weapon, How high is your strenght, and If you deal a critical strike or not
+  Weapons Dmg is based on the type of material it's made out of.
+  There are different and unknown materials in this world now that has been brought by
+  or made out of the monsters. 
+  Your strength will naturally grow but some quests can help increase your overall skill
+  Critical strikes will be based on both your stats and the weapon.//
+
+//1 - ATTACK:
+  Heavy attacks have a 25% chance to land a strike and deal a extra 125% dmg
+  Normal attacks have a 50% chance to hit and deal monderate dmg
+  quick attacks have a 75% chance to hit but ony deal 35% of all dmg//
+
+//2 - ANALYSIS:
+  Take a turn to analysis your ENEMY's Stats such as HP, Dmg chance, or 
+  any special effects such as burning, healing or poison. Recommend only
+  using this on stronger unknown enemyies. 
+
+//3 - ITEMS: 
+  Spend a turn to use any ITEMS such as POTIONS, speical healing items,
+  or any dmg boosters or magic spells. Once you use an item weither if
+  it fails or succeeds, it is only a one time use... most of the time.
+
+//4 - SELF CHECK:
+  Quickly check yourself for any effects or if you just want to overall
+  see how yourself is doing and what your stats are. This won't take up
+  a turn no matter how many times you look at yourself.
+
+//5 - FLEE: 
+  If you think you have no chance in fighting an enemy or know you are 
+  going to die, take a chance to run if it's the last enemy based on how
+  high your DEX Skill. If it's a boss then you can not flee.
+
+//6 - HELP:
+  Need a reminder back to what everything means then you can type 6 for
+  help. Disclaimer, in the future the stats will remain deault in help
+  but to check actual stats use SELF CHECK
+
+//7 - DEFENSE: 
+  As you are getting attack, you have choices too,
+  Negate- 75% chance to avoide 25% of dmg
+  Block- 50% chance to avoide 50% of dmg
+  Dodge - 25% chance to take no dmg at all
+  
+  Armor - Heavier armor absorbs more dmg but has less 
+ 	  mobility to aovid attacks.
+  	  Lighter armor can't take a large amount of dmg
+	  however less weight is more mobility
+  
+
+(1 - Heavy attack | 2 - Normal attack | 3 - Quick attack)
+
+miss or hit
+you deal [dmg]
+
+(after attack)
+(miss or hit)
+You take [dmg] 
+
+//Once your HP drops to 0 you die, you only get one life, no do-overs.//
+
+Fight ends and you get a HP potion and some normal cloathing 
+
+//during fights you'll have choices to atttack, heal, anaylsis, or retreat
+  Everything has a certain chance of happening.// 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
